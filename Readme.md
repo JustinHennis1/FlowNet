@@ -1,0 +1,2 @@
+# NetFlow Analytica
+A Network Flow Analysis engine running in the background. Built to be used on the command-line, NetFlow will detect dangerous packets being sent across your network. Machine Learning allows for quick detection with over 90% accuracy.
